@@ -1,0 +1,6 @@
+[core]
+    remote = tmp
+['remote "remote"']
+    url = ../tmp
+['remote "tmp"']
+    url = ../tmp
